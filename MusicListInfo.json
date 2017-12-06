@@ -1,7 +1,5 @@
 {
-	"MusicList": {
-		"Version": 1,
-		"UpdatedAt": "2017/12/07 00:00:00",
-	},
+	"Version": 1,
+	"UpdatedAt": "2017/12/07 00:00:00",
 	"MinimumAppVersion": "1.0.3"
 }
