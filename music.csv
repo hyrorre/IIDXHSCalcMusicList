@@ -39,7 +39,7 @@ Fascination MAXX,開始時BPM→加速後基本BPM,100,400,14,14/fas_maxx,
 Fascination MAXX,"加速後基本BPM→減速後基本BPM SPN,SPA,DPAはギアチェンがシビア",400,200,14,14/fas_maxx,
 FLOWERS for ALBION,2ノーツ目後皿チョン可能,70,93,4,4/flowers,"SPA,DPA"
 four pieces of heaven,,195,195,15,15/fourpces,
-FUTURE is Dead,[SPA]のみBPM変化 110 → 220 → 110(1小節) → 220 → 110,110,220,25,25/future,
+FUTURE is Dead,[SPA]のみBPM変化 110 → 220 → 110(1小節) → 220 → 110,110,220,25,25/futuredd,
 Ganymede,BPM揺らぎ,82,82,13,13/ganymede,
 GET READY!!,捨てノーツあり,175,88,23,23/getready,
 Glorious Days,最後、徐々にBPM40まで遅くなる,83,83,7,7/glorious,DPA
@@ -47,7 +47,7 @@ GRADIUS -FULL SPEED-,BPM 160 → 220 → 160  → 220 → 160(一瞬) → 200,16
 GRADIUS -FULL SPEED-,BPM 160 → 220 → 160  → 220 → 160(一瞬) → 200,160,200,10,10/grafull,
 GRADIUS -FULL SPEED-,BPM 160 → 220 → 160  → 220 → 160(一瞬) → 200,220,200,10,10/grafull,
 GRADIUSIC CYBER,一瞬だけなぜかちょっと速くなる,160,160,1,1/gracyber,
-Hella Deep,余裕がある人は皿回しながらスタートを押して皿チョンしてもよい,150,132,25,25/hella,
+Hella Deep,余裕がある人は皿回しながらスタートを押して皿チョンしてもよい,150,132,25,25/helladep,
 ICARUS,最高速に合わせる場合,176,251,15,15/icarus,
 In The Breeze,緑数字変えておく,123,142,22,22/inbreeze,
 JOMANDA,最高速に合わせる場合,195,300,20,20/jomanda,
